@@ -1,1 +1,3 @@
-# .github
+# AI for Net Zero
+
+## About us
