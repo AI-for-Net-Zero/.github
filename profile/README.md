@@ -8,4 +8,4 @@ We are a research group made up of four UK universities. Our work focusses on de
 
 Here you can find code bases for different aspects of the project. Each of the repositories have descriptions and instructions on how to use the codes.
 
-For more info about the project capabilities and case studies, visit [our website](www.aifornetzero.co.uk)
+For more info about the project capabilities and case studies, visit [our website](https://www.aifornetzero.co.uk)
